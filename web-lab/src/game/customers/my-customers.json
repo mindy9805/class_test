@@ -1,0 +1,162 @@
+[
+  {
+    "name": "夜班王司機",
+    "intro": "跑夜班的計程車司機",
+    "budget": 90,
+    "wants": ["玉米鍋貼", "招牌鍋貼"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "熱騰騰的，開夜車有力。",
+      "hated_on_menu": "這味道我不行，先走。",
+      "not_on_menu": "想吃的沒有，繼續跑車。",
+      "sold_out": "又賣完，白繞一趟。",
+      "too_expensive": "貴了點，跑一趟才賺這些。"
+    }
+  },
+  {
+    "name": "早班陳司機",
+    "intro": "天亮就出車的計程車司機",
+    "budget": 85,
+    "wants": ["玉米鍋貼", "韭菜鍋貼"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "早餐就吃這個，穩。",
+      "hated_on_menu": "一早就聞到怪味，閃。",
+      "not_on_menu": "沒玉米？那我換一家。",
+      "sold_out": "賣光了？我今天太晚來。",
+      "too_expensive": "一早就這個價，嚇人。"
+    }
+  },
+  {
+    "name": "加班小陳",
+    "intro": "常加班的辦公室上班族",
+    "budget": 110,
+    "wants": ["招牌鍋貼", "韭菜鍋貼"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "吃飽了，今晚還撐得住。",
+      "hated_on_menu": "今天菜單不合，下次吧。",
+      "not_on_menu": "沒有鍋貼？那我去別家。",
+      "sold_out": "賣完了？加班餓著啊。",
+      "too_expensive": "這價錢加班費都不夠。"
+    }
+  },
+  {
+    "name": "會計阿美",
+    "intro": "月底對帳的會計",
+    "budget": 100,
+    "wants": ["招牌鍋貼", "韭菜鍋貼"],
+    "hates": "玉米鍋貼",
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "對帳前先填飽肚子。",
+      "hated_on_menu": "玉米味太甜，我不吃。",
+      "not_on_menu": "招牌沒有？帳對不下去。",
+      "sold_out": "賣完了？這個月帳都慘。",
+      "too_expensive": "這個價錢列不進預算。"
+    }
+  },
+  {
+    "name": "工程師老周",
+    "intro": "天天趕進度的工程師",
+    "budget": 130,
+    "wants": ["韭菜鍋貼", "招牌鍋貼"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "吃飽才有力氣修 bug。",
+      "hated_on_menu": "菜單踩雷，我先撤退。",
+      "not_on_menu": "我要的沒上架，404。",
+      "sold_out": "庫存歸零，跟伺服器一樣。",
+      "too_expensive": "這價格效能比不夠高。"
+    }
+  },
+  {
+    "name": "業務林經理",
+    "intro": "常請客戶吃飯的業務",
+    "budget": 120,
+    "wants": ["招牌鍋貼", "韭菜鍋貼"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "吃飽了，下午好談生意。",
+      "hated_on_menu": "這家不對味，改約別處。",
+      "not_on_menu": "沒有招牌，怎麼請客戶？",
+      "sold_out": "賣完？客戶都在等我啊。",
+      "too_expensive": "招待費沒這麼多啦。"
+    }
+  },
+  {
+    "name": "老林司機",
+    "intro": "不吃玉米的計程車司機",
+    "budget": 75,
+    "wants": ["招牌鍋貼", "韭菜鍋貼"],
+    "hates": "玉米鍋貼",
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "這個我愛吃，實在。",
+      "hated_on_menu": "有玉米？我不進去了。",
+      "not_on_menu": "沒有我愛的鍋貼啊。",
+      "sold_out": "賣完了？我下回早點。",
+      "too_expensive": "司機的荷包不太行啊。"
+    }
+  },
+  {
+    "name": "小黃司機",
+    "intro": "紅燈前吃飯的司機",
+    "budget": 80,
+    "wants": ["韭菜鍋貼", "招牌鍋貼"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "等紅燈前先塞兩口。",
+      "hated_on_menu": "味道太重，客人會嫌。",
+      "not_on_menu": "沒有韭菜？載客去了。",
+      "sold_out": "賣完囉？今天運氣差。",
+      "too_expensive": "這價錢夠我加半箱油。"
+    }
+  },
+  {
+    "name": "實習生小宇",
+    "intro": "午休只有一小時的實習生",
+    "budget": 95,
+    "wants": ["招牌鍋貼", "韭菜鍋貼"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "實習薪水也能吃飽！",
+      "hated_on_menu": "主管說這個別碰。",
+      "not_on_menu": "沒有招牌？午休白跑了。",
+      "sold_out": "賣完了，我午休剩十分。",
+      "too_expensive": "實習生吃不起這價。"
+    }
+  },
+  {
+    "name": "資深張司機",
+    "intro": "開了二十年車的老司機",
+    "budget": 120,
+    "wants": ["招牌鍋貼", "韭菜鍋貼"],
+    "hates": "玉米鍋貼",
+    "days": [1, 2, 3, 4, 5],
+    "count": 1,
+    "lines": {
+      "bought": "開了二十年車，就好這口。",
+      "hated_on_menu": "玉米我二十年沒碰過。",
+      "not_on_menu": "老店怎麼少了這味？",
+      "sold_out": "賣完了？老客人也沒留？",
+      "too_expensive": "老客人也沒打折啊？"
+    }
+  }
+]
