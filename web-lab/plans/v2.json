@@ -1,0 +1,126 @@
+{
+  "name": "v2：只調第 3 天備貨（招牌 10→22、韭菜 10→5、玉米 10→不上架）",
+  "pack": "official",
+  "days": [
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 10,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 10,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 22,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 5,
+          "price": 70
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 10,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 10,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    }
+  ]
+}
